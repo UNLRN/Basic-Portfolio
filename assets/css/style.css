@@ -1,5 +1,5 @@
 body * {
-	color: #777777;
+	color: #999999;
 }
 
 html, body {
@@ -69,6 +69,7 @@ div > h1 {
 li {
 	padding: 10px;
 	display: inline-block;
+	font-weight: bold;
 }
 
 ul {
@@ -198,3 +199,10 @@ h4 {
 }
 
 
+a {
+	text-decoration: none;	
+}
+
+p {
+	font-size: 20px;
+}
